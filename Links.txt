@@ -1,0 +1,8 @@
+Links:
+Git and GitHub Demo: https://github.com/Alcyone713/jubilant-funicular.git
+Open-Source Licenses: https://choosealicense.com/appendix
+Git: https://git-scm.com/downloads
+VS Code repo: https://github.com/microsoft/vscode.git
+First Contributions: https://github.com/firstcontributions/first-contributions.git
+Language-wise repo links: https://github.com/MunGell/awesome-for-beginners.git
+MLSA website: https://studentambassadors.microsoft.com
